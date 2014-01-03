@@ -429,6 +429,7 @@ static const GLfloat objEmissionDuck[4] = { MATERIALCOLOR(0.5, 0.5, 0.5, 1.0) };
 	// setup image Image2d
 	float x,y,c;
 	[self setup_image:&image_full x:0 y:0 w:320 h:480 mw:512 mh:512];
+    //[self setup_image:&image_full x:0 y:0 w:320 h:568 mw:568 mh:568]; // not work
 	[self setup_image:&image_hpFrame x:60 y:400 w:256 h:48 mw:256 mh:256];
 	
 	[self setup_image:&image_stage_loading_bar x:0 y:150 w:320 h:200 mw:512 mh:256];
@@ -593,7 +594,7 @@ static const GLfloat objEmissionDuck[4] = { MATERIALCOLOR(0.5, 0.5, 0.5, 1.0) };
 - (void)setup_text_credits {
 	if(text_credits.text)
 		[text_credits.text dealloc];
-	text_credits.text = [[Texture2D alloc] initWithString:@"Product Company\nNeuvex (www.neuvex.com)\n\nGame Producer\nSittiphol Phanvilai\n\nDeveloper\nSaran Dumronggittigule\n\nGraphics Designer\nchangnumcg\n\nSponsors\nSIPA Thailand" dimensions:CGSizeMake(256, 256)
+	text_credits.text = [[Texture2D alloc] initWithString:@"Product Company\nHLPTH (www.hlpth.com)\n\nGame Producer\nSittiphol Phanvilai\n\nDeveloper\nSaran Dumronggittigule\n\nGraphics Designer\nchangnumcg\n\nSponsors\nSIPA Thailand" dimensions:CGSizeMake(256, 256)
 											  alignment:UITextAlignmentCenter fontName:kScoreFontName fontSize:14];
 	[self setup_text_color:&text_credits r:255 g:255 b:255];
 	text_credits.p = CGPointMake(32, 40);	

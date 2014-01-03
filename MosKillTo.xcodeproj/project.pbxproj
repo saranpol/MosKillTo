@@ -170,6 +170,7 @@
 		43F85B790FCDE1D900F7EDB4 /* oalPlayback.m in Sources */ = {isa = PBXBuildFile; fileRef = 43F85B780FCDE1D900F7EDB4 /* oalPlayback.m */; };
 		43FB5CD3100A51890056EDE2 /* menu_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 43FB5CD2100A51890056EDE2 /* menu_bg.png */; };
 		43FF64251083E06700D2727D /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 43FF64241083E06700D2727D /* icon.png */; };
+		6BDCB1281876D5230042872F /* menu_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BDCB1271876D5230042872F /* menu_bg@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -343,6 +344,7 @@
 		43F85B780FCDE1D900F7EDB4 /* oalPlayback.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = oalPlayback.m; sourceTree = "<group>"; };
 		43FB5CD2100A51890056EDE2 /* menu_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu_bg.png; sourceTree = "<group>"; };
 		43FF64241083E06700D2727D /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		6BDCB1271876D5230042872F /* menu_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu_bg@2x.png"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -469,6 +471,7 @@
 				437DC157100A5FAF0022DB5D /* menu_button_over.png */,
 				437DC158100A5FAF0022DB5D /* menu_button.png */,
 				43FB5CD2100A51890056EDE2 /* menu_bg.png */,
+				6BDCB1271876D5230042872F /* menu_bg@2x.png */,
 				43998E450F97CA22005070DF /* cross_hair.png */,
 				43998E4F0F97D8A8005070DF /* retry.png */,
 				43803CE20F96823500FBD107 /* exit.png */,
@@ -872,6 +875,7 @@
 				43A0A881105AE8BE00AF025E /* room2_left.png in Resources */,
 				43A0A882105AE8BE00AF025E /* room2_right.png in Resources */,
 				43A0A883105AE8BE00AF025E /* room2_top.png in Resources */,
+				6BDCB1281876D5230042872F /* menu_bg@2x.png in Resources */,
 				43A0A88C105AEA5300AF025E /* room3_top.png in Resources */,
 				43A0A88D105AEA5300AF025E /* room3_bottom.png in Resources */,
 				43A0A88E105AEA5300AF025E /* room3_front.png in Resources */,
