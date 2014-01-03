@@ -1,0 +1,2509 @@
+TMosKillTo
+v7
+r0
+t286684841.623841
+cCheck dependencies
+cProcessInfoPlistFile /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/Info.plist Info.plist
+cCompileXIB /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/pause.png pause.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/resume.png resume.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/exit.png exit.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/cross_hair.png cross_hair.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/retry.png retry.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun1.png gun1.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun2.png gun2.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_1.png mos_1.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_3.png mos_3.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_4.png mos_4.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_2.png mos_2.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun3.png gun3.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4.png gun4.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/bullet_hole.png bullet_hole.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_1.png mos_hit_1.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_2.png mos_hit_2.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_3.png mos_hit_3.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_7.png mos_hit_7.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_4.png mos_hit_4.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_5.png mos_hit_5.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_6.png mos_hit_6.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_bite_4.png mos_bite_4.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_bite_1.png mos_bite_1.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_bite_2.png mos_bite_2.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_bite_3.png mos_bite_3.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/heal.png heal.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/laser21.caf laser21.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mosquito.caf mosquito.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/laser07.caf laser07.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gunshot.caf gunshot.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/cheer1.caf cheer1.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/oooooh.caf oooooh.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/grunt13.caf grunt13.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/jet.caf jet.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/harmonik.caf harmonik.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/grunt12.caf grunt12.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/hit.caf hit.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/grunt11.caf grunt11.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/kiss3.caf kiss3.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/diamon.caf diamon.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/hiccup.caf hiccup.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/break_17.caf break_17.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/item_gun2.png item_gun2.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/item_gun3.png item_gun3.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/item_gun4.png item_gun4.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun1_shot.png gun1_shot.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun2_shot.png gun2_shot.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/bomb3.caf bomb3.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/iphone_h4.png iphone_h4.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/iphone_h1.png iphone_h1.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/iphone_h2.png iphone_h2.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/iphone_h3.png iphone_h3.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/arrow.png arrow.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/menu_bg.png menu_bg.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/menu_button_over.png menu_button_over.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/menu_button.png menu_button.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/tngdorbl.caf tngdorbl.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/quit_over.png quit_over.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/quit.png quit.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/ok_over.png ok_over.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/ok.png ok.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/stage_loading_bar.png stage_loading_bar.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_colon.png digit_colon.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_0.png digit_0.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_1.png digit_1.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_2.png digit_2.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_3.png digit_3.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_4.png digit_4.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_5.png digit_5.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_6.png digit_6.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_7.png digit_7.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_8.png digit_8.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_9.png digit_9.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_x.png digit_x.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/top_bar.png top_bar.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/top_bar_hp.png top_bar_hp.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/control_bar.png control_bar.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/dialog_big.png dialog_big.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/dialog_middle.png dialog_middle.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/dialog_small.png dialog_small.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/map_bg.png map_bg.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/you_win.png you_win.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/you_lost.png you_lost.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/new_highscore.png new_highscore.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/stage_point_over.png stage_point_over.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/stage_point.png stage_point.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/load4.caf load4.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_9.png gun4_effect_9.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_1.png gun4_effect_1.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_2.png gun4_effect_2.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_3.png gun4_effect_3.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_4.png gun4_effect_4.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_5.png gun4_effect_5.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_6.png gun4_effect_6.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_7.png gun4_effect_7.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_8.png gun4_effect_8.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun3_shot.png gun3_shot.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_shot.png gun4_shot.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/prev_button.png prev_button.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/prev_button_over.png prev_button_over.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/next_button.png next_button.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/next_button_over.png next_button_over.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/logo_neuvex.png logo_neuvex.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/logo_sipa.png logo_sipa.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_big_1.png mos_big_1.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_big_2.png mos_big_2.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_big_3.png mos_big_3.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_big_4.png mos_big_4.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/squert.caf squert.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/cartoon49.caf cartoon49.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/f8loop199.caf f8loop199.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/f8loop021.caf f8loop021.caf
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/loading.png loading.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/loading_frame.png loading_frame.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/mask.png mask.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room1_top.png room1_top.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room1_back.png room1_back.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room1_bottom.png room1_bottom.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room1_front.png room1_front.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room1_left.png room1_left.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room1_right.png room1_right.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room2_back.png room2_back.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room2_bottom.png room2_bottom.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room2_front.png room2_front.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room2_left.png room2_left.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room2_right.png room2_right.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room2_top.png room2_top.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room3_top.png room3_top.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room3_bottom.png room3_bottom.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room3_front.png room3_front.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room3_left.png room3_left.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room3_right.png room3_right.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room3_back.png room3_back.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room4_top.png room4_top.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room4_back.png room4_back.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room4_bottom.png room4_bottom.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room4_front.png room4_front.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room4_left.png room4_left.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/room4_right.png room4_right.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/map_1.png map_1.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/map_2.png map_2.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/map_3.png map_3.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/map_4.png map_4.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/start_game.png start_game.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/credits.png credits.png
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/options.png options.png
+cCopyPlistFile /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/Entitlements.plist Entitlements.plist
+cCpResource build/Debug-iphonesimulator/MosKillTo.app/icon.png icon.png
+cProcessPCH /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-awzypfymeudkwehjxbodchmzmycd/MosKillTo_Prefix.pch.gch MosKillTo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-anzyfksmuvpyvufjvnmdppqxjvey/MosKillTo_Prefix.pch.gch MosKillTo_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/main.o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/MosKillToAppDelegate.o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MosKillToAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/EAGLView.o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/Texture2D.o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/Texture2D.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/MyOpenALSupport.o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MyOpenALSupport.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/oalPlayback.o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/MosKillTo normal i386
+cGenerateDSYMFile /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app.dSYM /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/MosKillTo
+cTouch /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A42E5F300000000000000EE
+t1245898227
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004A0DADB60000000000000A22
+t1242410422
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/ExtendedAudioFile.h
+c000000004A0DADB60000000000004E19
+t1242410422
+s19993
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004A0BB03100000000000064FD
+t1242279985
+s25853
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004A0BB0310000000000001F45
+t1242279985
+s8005
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004A0BAD67000000000000094F
+t1242279271
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004A0BAD670000000000000A61
+t1242279271
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004A0BAD670000000000009369
+t1242279271
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004A0BAD670000000000002576
+t1242279271
+s9590
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004A0BAD70000000000001F0F0
+t1242279280
+s127216
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004A0BADD7000000000000007D
+t1242279383
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E55E0
+t1242279476
+s939488
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004BD1FFCD0000000000000A22
+t1272053709
+s2594
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/ExtendedAudioFile.h
+c000000004BD1FFCD0000000000005430
+t1272053709
+s21552
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004BD1CD1000000000000064FD
+t1272040720
+s25853
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004BD1CD100000000000001F45
+t1272040720
+s8005
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004BD1CF66000000000000094F
+t1272041318
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004BD1CF660000000000000A61
+t1272041318
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004BD1CF660000000000009369
+t1272041318
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004BD1CF660000000000002A42
+t1272041318
+s10818
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004BD1CF720000000000021BE0
+t1272041330
+s138208
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004BD1D01E000000000000007D
+t1272041502
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004BD1D06900000000001294B0
+t1272041577
+s1217712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B73AAD700000000004C9980
+t1265871575
+s5020032
+
+N/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004A4C40E700000000000A1F90
+t1246511335
+s663440
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/EAGLView.h
+c000000004AC272E80000000000001FD7
+t1254257384
+s8151
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"Texture2D.h"
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/EAGLView.m
+c000000004AD3856B000000000001835B
+t1255376235
+s99163
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i<AudioToolbox/AudioToolbox.h>
+i"EAGLView.h"
+i"MosKillToAppDelegate.h"
+i"oalPlayback.h"
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MosKillToAppDelegate.h
+c000000004AC2730300000000000007F3
+t1254257411
+s2035
+i<UIKit/UIKit.h>
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MosKillToAppDelegate.m
+c000000004AD385960000000000003A05
+t1255376278
+s14853
+i"MosKillToAppDelegate.h"
+i"EAGLView.h"
+i"oalPlayback.h"
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MyOpenALSupport.c
+c0000000049EE7B8A00000000000018A7
+t1240365962
+s6311
+i"MyOpenALSupport.h"
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MyOpenALSupport.h
+c0000000049EE7B8A0000000000000B61
+t1240365962
+s2913
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i<AudioToolbox/ExtendedAudioFile.h>
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/Texture2D.h
+c000000004A11A6BF00000000000012A9
+t1242670783
+s4777
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/Texture2D.m
+c000000004A11A6BF0000000000002984
+t1242670783
+s10628
+i<OpenGLES/ES1/glext.h>
+i"Texture2D.h"
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.h
+c000000004A931CF90000000000000E3B
+t1251155193
+s3643
+i<UIKit/UIKit.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m
+c000000004A931CFB0000000000002757
+t1251155195
+s10071
+i"oalPlayback.h"
+i"MyOpenALSupport.h"
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Default.png
+c0000000049DE6D060000000000009008
+t1239313670
+s36872
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Entitlements.plist
+c000000004AC258C500000000000000E1
+t1254250693
+s225
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MainWindow.xib
+c000000004B663F5A0000000000002E8B
+t1264992090
+s11915
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MosKillTo_Prefix.pch
+c0000000049B6B7A500000000000000B3
+t1236711333
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/arrow.png
+c000000004A4E63E60000000000001254
+t1246651366
+s4692
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/bomb3.caf
+c000000004A491B980000000000002D5A
+t1246305176
+s11610
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/break_17.caf
+c000000004A3FCAA500000000000042DE
+t1245694629
+s17118
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app
+t1264992041
+s5576
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app.dSYM
+t1264990652
+s102
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/Default.png
+t1244753475
+s36872
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/Entitlements.plist
+t1254259656
+s62
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/Info.plist
+t1264990650
+s655
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/MainWindow.nib
+t1264992041
+s1233
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/MosKillTo
+t1264990652
+s178088
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/PkgInfo
+t1264990650
+s8
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/arrow.png
+t1254259655
+s4692
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/bomb3.caf
+t1254259655
+s11610
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/break_17.caf
+t1254259655
+s17118
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/bullet_hole.png
+t1254259655
+s3256
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/cartoon49.caf
+t1254259656
+s8754
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/cheer1.caf
+t1254259655
+s76754
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/control_bar.png
+t1254259656
+s9587
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/credits.png
+t1254259656
+s3582
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/cross_hair.png
+t1244753475
+s536
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/dialog_big.png
+t1254259656
+s8306
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/dialog_middle.png
+t1254259656
+s4725
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/dialog_small.png
+t1254259656
+s6373
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/diamon.caf
+t1254259655
+s15928
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/digit_0.png
+t1254259656
+s414
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/digit_1.png
+t1254259656
+s286
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/digit_2.png
+t1254259656
+s443
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/digit_3.png
+t1254259656
+s460
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/digit_4.png
+t1254259656
+s377
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/digit_5.png
+t1254259656
+s428
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/digit_6.png
+t1254259656
+s435
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/digit_7.png
+t1254259656
+s382
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/digit_8.png
+t1254259656
+s451
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/digit_9.png
+t1254259656
+s439
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/digit_colon.png
+t1254259656
+s279
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/digit_x.png
+t1254259656
+s417
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/exit.png
+t1244753475
+s1499
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/f8loop021.caf
+t1254259656
+s97460
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/f8loop199.caf
+t1254259656
+s229992
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/grunt11.caf
+t1254259655
+s6374
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/grunt12.caf
+t1254259655
+s6272
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/grunt13.caf
+t1254259655
+s6442
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun1.png
+t1244753475
+s12217
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun1_shot.png
+t1254259655
+s25122
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun2.png
+t1244753475
+s37745
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun2_shot.png
+t1254259655
+s54034
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun3.png
+t1244753475
+s13936
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun3_shot.png
+t1254259656
+s50511
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun4.png
+t1244753475
+s31009
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_1.png
+t1254259656
+s19178
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_2.png
+t1254259656
+s29129
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_3.png
+t1254259656
+s38382
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_4.png
+t1254259656
+s50700
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_5.png
+t1254259656
+s59866
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_6.png
+t1254259656
+s70885
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_7.png
+t1254259656
+s75778
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_8.png
+t1254259656
+s50891
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_9.png
+t1254259656
+s35445
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gun4_shot.png
+t1254259656
+s34651
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/gunshot.caf
+t1254259655
+s42550
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/harmonik.caf
+t1254259655
+s68594
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/heal.png
+t1254259655
+s5302
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/hiccup.caf
+t1254259655
+s5558
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/hit.caf
+t1254259655
+s6306
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/icon.png
+t1255592461
+s7739
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/iphone_h1.png
+t1254259655
+s7940
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/iphone_h2.png
+t1254259655
+s7918
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/iphone_h3.png
+t1254259655
+s6398
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/iphone_h4.png
+t1254259655
+s8019
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/item_gun2.png
+t1254259655
+s15164
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/item_gun3.png
+t1254259655
+s7603
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/item_gun4.png
+t1254259655
+s15219
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/jet.caf
+t1254259655
+s28406
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/kiss3.caf
+t1254259655
+s11542
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/laser07.caf
+t1254259655
+s8108
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/laser21.caf
+t1254259655
+s7190
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/load4.caf
+t1254259656
+s5558
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/loading.png
+t1254259656
+s4518
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/loading_frame.png
+t1254259656
+s23478
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/logo_neuvex.png
+t1254259656
+s6031
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/logo_sipa.png
+t1254259656
+s4846
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/map_1.png
+t1254259656
+s136873
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/map_2.png
+t1254259656
+s166852
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/map_3.png
+t1254259656
+s93985
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/map_4.png
+t1254259656
+s144513
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/map_bg.png
+t1254259656
+s20531
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mask.png
+t1254259656
+s14973
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/menu_bg.png
+t1254259656
+s153064
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/menu_button.png
+t1254259656
+s4085
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/menu_button_over.png
+t1254259656
+s4060
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_1.png
+t1244753475
+s6471
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_2.png
+t1244753475
+s6623
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_3.png
+t1244753475
+s7259
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_4.png
+t1244753475
+s7002
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_big_1.png
+t1254259656
+s11878
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_big_2.png
+t1254259656
+s13015
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_big_3.png
+t1254259656
+s13217
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_big_4.png
+t1254259656
+s12526
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_bite_1.png
+t1254259655
+s13835
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_bite_2.png
+t1254259655
+s15957
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_bite_3.png
+t1254259655
+s15831
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_bite_4.png
+t1254259655
+s15466
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_hit_1.png
+t1254259655
+s38636
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_hit_2.png
+t1254259655
+s55749
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_hit_3.png
+t1254259655
+s56099
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_hit_4.png
+t1254259655
+s67794
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_hit_5.png
+t1254259655
+s64330
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_hit_6.png
+t1254259655
+s60415
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mos_hit_7.png
+t1254259655
+s55027
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/mosquito.caf
+t1254259655
+s86308
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/new_highscore.png
+t1254259656
+s5391
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/next_button.png
+t1254259656
+s2192
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/next_button_over.png
+t1254259656
+s2156
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/ok.png
+t1254259656
+s3288
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/ok_over.png
+t1254259656
+s3298
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/oooooh.caf
+t1254259655
+s5694
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/options.png
+t1254259656
+s3581
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/pause.png
+t1244753475
+s1520
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/prev_button.png
+t1254259656
+s2228
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/prev_button_over.png
+t1254259656
+s2207
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/quit.png
+t1254259656
+s3638
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/quit_over.png
+t1254259656
+s3651
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/resume.png
+t1244753475
+s1654
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/retry.png
+t1244753475
+s1795
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room1_back.png
+t1254259656
+s20949
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room1_bottom.png
+t1254259656
+s62186
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room1_front.png
+t1254259656
+s24652
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room1_left.png
+t1254259656
+s18961
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room1_right.png
+t1254259656
+s27340
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room1_top.png
+t1254259656
+s62356
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room2_back.png
+t1254259656
+s84889
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room2_bottom.png
+t1254259656
+s140964
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room2_front.png
+t1254259656
+s80592
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room2_left.png
+t1254259656
+s92183
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room2_right.png
+t1254259656
+s82230
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room2_top.png
+t1254259656
+s33573
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room3_back.png
+t1254259656
+s26621
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room3_bottom.png
+t1254259656
+s26884
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room3_front.png
+t1254259656
+s26885
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room3_left.png
+t1254259656
+s38700
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room3_right.png
+t1254259656
+s17139
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room3_top.png
+t1254259656
+s28857
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room4_back.png
+t1254259656
+s62830
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room4_bottom.png
+t1254259656
+s337597
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room4_front.png
+t1254259656
+s51806
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room4_left.png
+t1254259656
+s83426
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room4_right.png
+t1254259656
+s71357
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/room4_top.png
+t1254259656
+s348308
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/squert.caf
+t1254259656
+s8210
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/stage_loading_bar.png
+t1254259656
+s3063
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/stage_point.png
+t1254259656
+s5811
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/stage_point_over.png
+t1254259656
+s8030
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/start_game.png
+t1254259656
+s4793
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/tngdorbl.caf
+t1254259656
+s12086
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/top_bar.png
+t1254259656
+s6996
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/top_bar_hp.png
+t1254259656
+s1090
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/you_lost.png
+t1254259656
+s9128
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/you_win.png
+t1254259656
+s9447
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/EAGLView.o
+t1264990652
+s217988
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/MosKillTo.LinkFileList
+c000000004AC27BC700000000000003BB
+t1254259655
+s955
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/MosKillToAppDelegate.o
+t1264990651
+s75264
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/MyOpenALSupport.o
+t1264990651
+s10672
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/Texture2D.o
+t1264990651
+s26576
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/main.o
+t1264990651
+s5996
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/oalPlayback.o
+t1264990652
+s25468
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/bullet_hole.png
+c000000004A33F9990000000000000CB8
+t1244920217
+s3256
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/cartoon49.caf
+c000000004A9304EB0000000000002232
+t1251149035
+s8754
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/cheer1.caf
+c000000004A3FCB7B0000000000012BD2
+t1245694843
+s76754
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/control_bar.png
+c000000004A6377F40000000000002573
+t1248032756
+s9587
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/credits.png
+c000000004AAE94F70000000000000DFE
+t1252955383
+s3582
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/cross_hair.png
+c0000000049E792A20000000000000218
+t1239913122
+s536
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/dialog_big.png
+c000000004A6380EB0000000000002072
+t1248035051
+s8306
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/dialog_middle.png
+c000000004A6380EB0000000000001275
+t1248035051
+s4725
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/dialog_small.png
+c000000004A6380EB00000000000018E5
+t1248035051
+s6373
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/diamon.caf
+c000000004A3FCBA90000000000003E38
+t1245694889
+s15928
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/digit_0.png
+c000000004A5F8BEC000000000000019E
+t1247775724
+s414
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/digit_1.png
+c000000004A5F8BEC000000000000011E
+t1247775724
+s286
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/digit_2.png
+c000000004A5F8BEC00000000000001BB
+t1247775724
+s443
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/digit_3.png
+c000000004A5F8BEC00000000000001CC
+t1247775724
+s460
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/digit_4.png
+c000000004A5F8BEC0000000000000179
+t1247775724
+s377
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/digit_5.png
+c000000004A5F8BEC00000000000001AC
+t1247775724
+s428
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/digit_6.png
+c000000004A5F8BEC00000000000001B3
+t1247775724
+s435
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/digit_7.png
+c000000004A5F8BEC000000000000017E
+t1247775724
+s382
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/digit_8.png
+c000000004A5F8BEC00000000000001C3
+t1247775724
+s451
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/digit_9.png
+c000000004A5F8BEC00000000000001B7
+t1247775724
+s439
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/digit_colon.png
+c000000004A5F8BEC0000000000000117
+t1247775724
+s279
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/digit_x.png
+c000000004A5F8BEC00000000000001A1
+t1247775724
+s417
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/exit.png
+c0000000049E64AB500000000000005DB
+t1239829173
+s1499
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/f8loop021.caf
+c000000004A931CA50000000000017CB4
+t1251155109
+s97460
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/f8loop199.caf
+c000000004A93193D0000000000038268
+t1251154237
+s229992
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/grunt11.caf
+c000000004A3FCB4E00000000000018E6
+t1245694798
+s6374
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/grunt12.caf
+c000000004A3FCB570000000000001880
+t1245694807
+s6272
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/grunt13.caf
+c000000004A3FCB5F000000000000192A
+t1245694815
+s6442
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun1.png
+c000000004A00B1840000000000002FB9
+t1241559428
+s12217
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun1_shot.png
+c000000004A454D4B0000000000006222
+t1246055755
+s25122
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun2.png
+c000000004A00B1840000000000009371
+t1241559428
+s37745
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun2_shot.png
+c000000004A4550A7000000000000D312
+t1246056615
+s54034
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun3.png
+c000000004A2BF9620000000000003670
+t1244395874
+s13936
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun3_shot.png
+c000000004A7984AD000000000000C54F
+t1249477805
+s50511
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun4.png
+c000000004A2BF9620000000000007921
+t1244395874
+s31009
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun4_effect_1.png
+c000000004A7981410000000000004AEA
+t1249476929
+s19178
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun4_effect_2.png
+c000000004A79814100000000000071C9
+t1249476929
+s29129
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun4_effect_3.png
+c000000004A79814100000000000095EE
+t1249476929
+s38382
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun4_effect_4.png
+c000000004A798141000000000000C60C
+t1249476929
+s50700
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun4_effect_5.png
+c000000004A798141000000000000E9DA
+t1249476929
+s59866
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun4_effect_6.png
+c000000004A79814100000000000114E5
+t1249476929
+s70885
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun4_effect_7.png
+c000000004A7981410000000000012802
+t1249476929
+s75778
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun4_effect_8.png
+c000000004A798141000000000000C6CB
+t1249476929
+s50891
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun4_effect_9.png
+c000000004A7981410000000000008A75
+t1249476929
+s35445
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gun4_shot.png
+c000000004A7984AD000000000000875B
+t1249477805
+s34651
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/gunshot.caf
+c000000004A3FCA88000000000000A636
+t1245694600
+s42550
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/harmonik.caf
+c000000004A3FCB8E0000000000010BF2
+t1245694862
+s68594
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/heal.png
+c000000004A3E9EE100000000000014B6
+t1245617889
+s5302
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/hiccup.caf
+c000000004A3FCADF00000000000015B6
+t1245694687
+s5558
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/hit.caf
+c000000004A3FCB2A00000000000018A2
+t1245694762
+s6306
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/icon.png
+c000000004AD3A8E70000000000001E3B
+t1255385319
+s7739
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/iphone_h1.png
+c000000004A4BC4A70000000000001F04
+t1246479527
+s7940
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/iphone_h2.png
+c000000004A4BC4A70000000000001EEE
+t1246479527
+s7918
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/iphone_h3.png
+c000000004A4BC4A700000000000018FE
+t1246479527
+s6398
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/iphone_h4.png
+c000000004A4BC4A70000000000001F53
+t1246479527
+s8019
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/item_gun2.png
+c000000004A4544B30000000000003B3C
+t1246053555
+s15164
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/item_gun3.png
+c000000004A4544B30000000000001DB3
+t1246053555
+s7603
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/item_gun4.png
+c000000004A4544B30000000000003B73
+t1246053555
+s15219
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/jet.caf
+c000000004A3FCAB70000000000006EF6
+t1245694647
+s28406
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/kiss3.caf
+c000000004A3FCB9F0000000000002D16
+t1245694879
+s11542
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/laser07.caf
+c000000004A3FCA3B0000000000001FAC
+t1245694523
+s8108
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/laser21.caf
+c000000004A3FCA470000000000001C16
+t1245694535
+s7190
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/load4.caf
+c000000004A735CBE00000000000015B6
+t1249074366
+s5558
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/loading.png
+c000000004A98537E00000000000011A6
+t1251496830
+s4518
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/loading_frame.png
+c000000004A98537E0000000000005BB6
+t1251496830
+s23478
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/logo_neuvex.png
+c000000004A83154A000000000000178F
+t1250104650
+s6031
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/logo_sipa.png
+c000000004A83223600000000000012EE
+t1250107958
+s4846
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/main.m
+c0000000049B6B7A50000000000000174
+t1236711333
+s372
+i<UIKit/UIKit.h>
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/map_1.png
+c000000004AAD740B00000000000216A9
+t1252881419
+s136873
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/map_2.png
+c000000004AAD740B0000000000028BC4
+t1252881419
+s166852
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/map_3.png
+c000000004AAD740B0000000000016F21
+t1252881419
+s93985
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/map_4.png
+c000000004AAD740B0000000000023481
+t1252881419
+s144513
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/map_bg.png
+c000000004A6774320000000000005033
+t1248293938
+s20531
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mask.png
+c000000004AA440F20000000000003A7D
+t1252278514
+s14973
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/menu_bg.png
+c000000004A5A1A0900000000000255E8
+t1247418889
+s153064
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/menu_button.png
+c000000004A5A282F0000000000000FF5
+t1247422511
+s4085
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/menu_button_over.png
+c000000004A5A282F0000000000000FDC
+t1247422511
+s4060
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_1.png
+c000000004A2964FB0000000000001947
+t1244226811
+s6471
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_2.png
+c000000004A297FC300000000000019DF
+t1244233667
+s6623
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_3.png
+c000000004A297FC30000000000001C5B
+t1244233667
+s7259
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_4.png
+c000000004A297FC30000000000001B5A
+t1244233667
+s7002
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_big_1.png
+c000000004A8EF1C70000000000002E66
+t1250881991
+s11878
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_big_2.png
+c000000004A8EF1C700000000000032D7
+t1250881991
+s13015
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_big_3.png
+c000000004A8EF1C700000000000033A1
+t1250881991
+s13217
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_big_4.png
+c000000004A8EF1C700000000000030EE
+t1250881991
+s12526
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_bite_1.png
+c000000004A3AA8C6000000000000360B
+t1245358278
+s13835
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_bite_2.png
+c000000004A3AA8C60000000000003E55
+t1245358278
+s15957
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_bite_3.png
+c000000004A3AA8C60000000000003DD7
+t1245358278
+s15831
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_bite_4.png
+c000000004A3AA8C60000000000003C6A
+t1245358278
+s15466
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_hit_1.png
+c000000004A3548A100000000000096EC
+t1245005985
+s38636
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_hit_2.png
+c000000004A3548A1000000000000D9C5
+t1245005985
+s55749
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_hit_3.png
+c000000004A3548A1000000000000DB23
+t1245005985
+s56099
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_hit_4.png
+c000000004A35499D00000000000108D2
+t1245006237
+s67794
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_hit_5.png
+c000000004A35499D000000000000FB4A
+t1245006237
+s64330
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_hit_6.png
+c000000004A35499D000000000000EBFF
+t1245006237
+s60415
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mos_hit_7.png
+c000000004A3548A1000000000000D6F3
+t1245005985
+s55027
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/mosquito.caf
+c000000004A3FC5C40000000000015124
+t1245693380
+s86308
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/new_highscore.png
+c000000004A68B85B000000000000150F
+t1248376923
+s5391
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/next_button.png
+c000000004A5A45B40000000000000890
+t1247430068
+s2192
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/next_button_over.png
+c000000004A5A45B4000000000000086C
+t1247430068
+s2156
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/ok.png
+c000000004A5B86B50000000000000CD8
+t1247512245
+s3288
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/ok_over.png
+c000000004A5B86B50000000000000CE2
+t1247512245
+s3298
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/oooooh.caf
+c000000004A3FCB6D000000000000163E
+t1245694829
+s5694
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/options.png
+c000000004AAE94F70000000000000DFD
+t1252955383
+s3581
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/pause.png
+c0000000049E61EA000000000000005F0
+t1239817888
+s1520
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/prev_button.png
+c000000004A5A45B400000000000008B4
+t1247430068
+s2228
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/prev_button_over.png
+c000000004A5A45B4000000000000089F
+t1247430068
+s2207
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/quit.png
+c000000004A5A45B40000000000000E36
+t1247430068
+s3638
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/quit_over.png
+c000000004A5A45B40000000000000E43
+t1247430068
+s3651
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/resume.png
+c0000000049E63A890000000000000676
+t1239825033
+s1654
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/retry.png
+c0000000049E7A1280000000000000703
+t1239916840
+s1795
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room1_back.png
+c000000004AAAAF3800000000000051D5
+t1252699960
+s20949
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room1_bottom.png
+c000000004AAAAF38000000000000F2EA
+t1252699960
+s62186
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room1_front.png
+c000000004AAAAF38000000000000604C
+t1252699960
+s24652
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room1_left.png
+c000000004AAAAF380000000000004A11
+t1252699960
+s18961
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room1_right.png
+c000000004AAAAF380000000000006ACC
+t1252699960
+s27340
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room1_top.png
+c000000004AAAAF38000000000000F394
+t1252699960
+s62356
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room2_back.png
+c000000004AAAB13E0000000000014B99
+t1252700478
+s84889
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room2_bottom.png
+c000000004AAAB13E00000000000226A4
+t1252700478
+s140964
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room2_front.png
+c000000004AAAB13E0000000000013AD0
+t1252700478
+s80592
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room2_left.png
+c000000004AAAB13E0000000000016817
+t1252700478
+s92183
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room2_right.png
+c000000004AAAB13E0000000000014136
+t1252700478
+s82230
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room2_top.png
+c000000004AAAB13E0000000000008325
+t1252700478
+s33573
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room3_back.png
+c000000004AAAB2D300000000000067FD
+t1252700883
+s26621
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room3_bottom.png
+c000000004AAAB2D30000000000006904
+t1252700883
+s26884
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room3_front.png
+c000000004AAAB2D30000000000006905
+t1252700883
+s26885
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room3_left.png
+c000000004AAAB2D3000000000000972C
+t1252700883
+s38700
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room3_right.png
+c000000004AAAB2D300000000000042F3
+t1252700883
+s17139
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room3_top.png
+c000000004AAAB2D300000000000070B9
+t1252700883
+s28857
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room4_back.png
+c000000004AAAB405000000000000F56E
+t1252701189
+s62830
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room4_bottom.png
+c000000004AAAB40500000000000526BD
+t1252701189
+s337597
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room4_front.png
+c000000004AAAB405000000000000CA5E
+t1252701189
+s51806
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room4_left.png
+c000000004AAAB40500000000000145E2
+t1252701189
+s83426
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room4_right.png
+c000000004AAAB40500000000000116BD
+t1252701189
+s71357
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/room4_top.png
+c000000004AAAB4050000000000055094
+t1252701189
+s348308
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/squert.caf
+c000000004A9303BC0000000000002012
+t1251148732
+s8210
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/stage_loading_bar.png
+c000000004A5E246C0000000000000BF7
+t1247683692
+s3063
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/stage_point.png
+c000000004A71E3E400000000000016B3
+t1248977892
+s5811
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/stage_point_over.png
+c000000004A71E3E40000000000001F5E
+t1248977892
+s8030
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/start_game.png
+c000000004AAE94F700000000000012B9
+t1252955383
+s4793
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/tngdorbl.caf
+c000000004A5A37DF0000000000002F36
+t1247426527
+s12086
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/top_bar.png
+c000000004A6365C40000000000001B54
+t1248028100
+s6996
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/top_bar_hp.png
+c000000004A6368AE0000000000000442
+t1248028846
+s1090
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/you_lost.png
+c000000004A68B85B00000000000023A8
+t1248376923
+s9128
+
+N/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/you_win.png
+c000000004A68B85B00000000000024E7
+t1248376923
+s9447
+
+N/var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-anzyfksmuvpyvufjvnmdppqxjvey/MosKillTo_Prefix.pch.gch
+t1264990651
+s2138480
+
+N/var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-apbassandyyfeuftwlkuzvdxrrmo/MosKillTo_Prefix.pch.gch
+t1264990552
+s12952976
+
+N/var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-awzypfymeudkwehjxbodchmzmycd/MosKillTo_Prefix.pch.gch
+t1264990651
+s13719376
+
+N/var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-bpxutirkvakjjqevjkxmyvsnjsqn/MosKillTo_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-fznnizxswfiomnbjoqgnruqgvhjo/MosKillTo_Prefix.pch.gch
+t1264990551
+s2138480
+
+N/var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-gchturhzrpdsfnfjbeubzgvqdmyc/MosKillTo_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004AC39B66000000000000039F
+t1254333286
+s927
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286684841#286684841#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/EAGLView.o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286683451.671172
+e286683452.320136
+r1
+xCompileC
+xbuild/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/EAGLView.o
+x/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/EAGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/EAGLView.m286683451#286683452#0(0"0(0#0#83"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/EAGLView.m4300903632#2199"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-generated-files.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-own-target-headers.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-all-target-headers.hmap -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-project-headers.hmap -F/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/include -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources/i386 -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources -include /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-awzypfymeudkwehjxbodchmzmycd/MosKillTo_Prefix.pch -c /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/EAGLView.m -o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/EAGLView.o0#
+
+CCompileC build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/MosKillToAppDelegate.o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MosKillToAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286683451.598178
+e286683451.792581
+r1
+xCompileC
+xbuild/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/MosKillToAppDelegate.o
+x/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MosKillToAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MosKillToAppDelegate.m: In function '-[MosKillToAppDelegate restoreFloat:initValue:]':
+o/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MosKillToAppDelegate.m:86: warning: format '%i' expects type 'int', but argument 3 has type 'double'
+lSLF07#2@103"Compile /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MosKillToAppDelegate.m286683451#286683451#0(334"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MosKillToAppDelegate.m: In function '-[MosKillToAppDelegate restoreFloat:initValue:]':/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MosKillToAppDelegate.m:86: warning: format '%i' expects type 'int', but argument 3 has type 'double'1(22@64"Format '%i' expects type 'int', but argument 3 has type 'double'286683451#160#174#0(6@95"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MosKillToAppDelegate.m277069078#86#0#86#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#95"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MosKillToAppDelegate.m4300903632#2223"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-generated-files.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-own-target-headers.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-all-target-headers.hmap -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-project-headers.hmap -F/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/include -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources/i386 -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources -include /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-awzypfymeudkwehjxbodchmzmycd/MosKillTo_Prefix.pch -c /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MosKillToAppDelegate.m -o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/MosKillToAppDelegate.o0#
+
+CCompileC build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/MyOpenALSupport.o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MyOpenALSupport.c normal i386 c com.apple.compilers.gcc.4_2
+s286683451.886002
+e286683451.988806
+r1
+xCompileC
+xbuild/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/MyOpenALSupport.o
+x/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MyOpenALSupport.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MyOpenALSupport.c286683451#286683451#0(0"0(0#0#90"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MyOpenALSupport.c4300903632#2203"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-generated-files.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-own-target-headers.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-all-target-headers.hmap -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-project-headers.hmap -F/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/include -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources/i386 -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources -include /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-anzyfksmuvpyvufjvnmdppqxjvey/MosKillTo_Prefix.pch -c /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/MyOpenALSupport.c -o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/MyOpenALSupport.o0#
+
+CCompileC build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/Texture2D.o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/Texture2D.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286683451.792685
+e286683451.885906
+r1
+xCompileC
+xbuild/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/Texture2D.o
+x/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/Texture2D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/Texture2D.m286683451#286683451#0(0"0(0#0#84"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/Texture2D.m4300903632#2201"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-generated-files.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-own-target-headers.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-all-target-headers.hmap -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-project-headers.hmap -F/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/include -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources/i386 -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources -include /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-awzypfymeudkwehjxbodchmzmycd/MosKillTo_Prefix.pch -c /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/Texture2D.m -o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/Texture2D.o0#
+
+CCompileC build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/main.o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286683451.597245
+e286683451.671072
+r1
+xCompileC
+xbuild/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/main.o
+x/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/main.m286683451#286683451#0(0"0(0#0#71"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/main.m4300903632#2183"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-generated-files.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-own-target-headers.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-all-target-headers.hmap -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-project-headers.hmap -F/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/include -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources/i386 -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources -include /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-awzypfymeudkwehjxbodchmzmycd/MosKillTo_Prefix.pch -c /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/main.m -o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/main.o0#
+
+CCompileC build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/oalPlayback.o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286683451.988903
+e286683452.086570
+r1
+xCompileC
+xbuild/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/oalPlayback.o
+x/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m: In function 'interruptionListener':
+o/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m:139: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m: In function '-[oalPlayback init]':
+o/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m:163: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m:167: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+o/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m:170: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'
+lSLF07#2@94"Compile /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m286683451#286683452#0(919"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m: In function 'interruptionListener':/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m:139: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m: In function '-[oalPlayback init]':/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m:163: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m:167: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m:170: warning: format '%d' expects type 'int', but argument 2 has type 'OSStatus'4(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'286683452#124#168#0(6@86"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m272847995#139#0#139#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'286683452#415#168#0(6@86"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m272847995#163#0#163#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'286683452#583#168#0(6@86"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m272847995#167#0#167#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 2 has type 'OSStatus'286683452#751#168#0(6@86"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m272847995#170#0#170#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#86"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m4300903632#2205"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-generated-files.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-own-target-headers.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-all-target-headers.hmap -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-project-headers.hmap -F/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/include -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources/i386 -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources -include /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-awzypfymeudkwehjxbodchmzmycd/MosKillTo_Prefix.pch -c /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Classes/oalPlayback.m -o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/oalPlayback.o0#
+
+CCompileXIB /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MainWindow.xib
+s286684841.173763
+e286684841.595847
+r1
+xCompileXIB
+x/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib286684841#286684841#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#79"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MainWindow.xib26740599536484460#560"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/MainWindow.nib /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MainWindow.xib0#
+
+CCopyPlistFile /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/Entitlements.plist Entitlements.plist
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/Default.png Default.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/arrow.png arrow.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/bomb3.caf bomb3.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/break_17.caf break_17.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/bullet_hole.png bullet_hole.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/cartoon49.caf cartoon49.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/cheer1.caf cheer1.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/control_bar.png control_bar.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/credits.png credits.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/cross_hair.png cross_hair.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/dialog_big.png dialog_big.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/dialog_middle.png dialog_middle.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/dialog_small.png dialog_small.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/diamon.caf diamon.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_0.png digit_0.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_1.png digit_1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_2.png digit_2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_3.png digit_3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_4.png digit_4.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_5.png digit_5.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_6.png digit_6.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_7.png digit_7.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_8.png digit_8.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_9.png digit_9.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_colon.png digit_colon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/digit_x.png digit_x.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/exit.png exit.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/f8loop021.caf f8loop021.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/f8loop199.caf f8loop199.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/grunt11.caf grunt11.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/grunt12.caf grunt12.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/grunt13.caf grunt13.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun1.png gun1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun1_shot.png gun1_shot.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun2.png gun2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun2_shot.png gun2_shot.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun3.png gun3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun3_shot.png gun3_shot.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4.png gun4.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_1.png gun4_effect_1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_2.png gun4_effect_2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_3.png gun4_effect_3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_4.png gun4_effect_4.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_5.png gun4_effect_5.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_6.png gun4_effect_6.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_7.png gun4_effect_7.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_8.png gun4_effect_8.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_effect_9.png gun4_effect_9.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gun4_shot.png gun4_shot.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/gunshot.caf gunshot.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/harmonik.caf harmonik.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/heal.png heal.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/hiccup.caf hiccup.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/hit.caf hit.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/icon.png icon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/iphone_h1.png iphone_h1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/iphone_h2.png iphone_h2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/iphone_h3.png iphone_h3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/iphone_h4.png iphone_h4.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/item_gun2.png item_gun2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/item_gun3.png item_gun3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/item_gun4.png item_gun4.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/jet.caf jet.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/kiss3.caf kiss3.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/laser07.caf laser07.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/laser21.caf laser21.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/load4.caf load4.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/loading.png loading.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/loading_frame.png loading_frame.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/logo_neuvex.png logo_neuvex.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/logo_sipa.png logo_sipa.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/map_1.png map_1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/map_2.png map_2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/map_3.png map_3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/map_4.png map_4.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/map_bg.png map_bg.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mask.png mask.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/menu_bg.png menu_bg.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/menu_button.png menu_button.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/menu_button_over.png menu_button_over.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_1.png mos_1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_2.png mos_2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_3.png mos_3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_4.png mos_4.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_big_1.png mos_big_1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_big_2.png mos_big_2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_big_3.png mos_big_3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_big_4.png mos_big_4.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_bite_1.png mos_bite_1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_bite_2.png mos_bite_2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_bite_3.png mos_bite_3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_bite_4.png mos_bite_4.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_1.png mos_hit_1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_2.png mos_hit_2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_3.png mos_hit_3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_4.png mos_hit_4.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_5.png mos_hit_5.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_6.png mos_hit_6.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mos_hit_7.png mos_hit_7.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/mosquito.caf mosquito.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/new_highscore.png new_highscore.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/next_button.png next_button.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/next_button_over.png next_button_over.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/ok.png ok.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/ok_over.png ok_over.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/oooooh.caf oooooh.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/options.png options.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/pause.png pause.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/prev_button.png prev_button.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/prev_button_over.png prev_button_over.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/quit.png quit.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/quit_over.png quit_over.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/resume.png resume.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/retry.png retry.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room1_back.png room1_back.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room1_bottom.png room1_bottom.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room1_front.png room1_front.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room1_left.png room1_left.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room1_right.png room1_right.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room1_top.png room1_top.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room2_back.png room2_back.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room2_bottom.png room2_bottom.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room2_front.png room2_front.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room2_left.png room2_left.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room2_right.png room2_right.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room2_top.png room2_top.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room3_back.png room3_back.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room3_bottom.png room3_bottom.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room3_front.png room3_front.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room3_left.png room3_left.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room3_right.png room3_right.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room3_top.png room3_top.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room4_back.png room4_back.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room4_bottom.png room4_bottom.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room4_front.png room4_front.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room4_left.png room4_left.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room4_right.png room4_right.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/room4_top.png room4_top.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/squert.caf squert.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/stage_loading_bar.png stage_loading_bar.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/stage_point.png stage_point.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/stage_point_over.png stage_point_over.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/start_game.png start_game.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/tngdorbl.caf tngdorbl.caf
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/top_bar.png top_bar.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/top_bar_hp.png top_bar_hp.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/you_lost.png you_lost.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MosKillTo.app/you_win.png you_win.png
+r0
+
+CGenerateDSYMFile /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app.dSYM /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/MosKillTo
+s286683452.465561
+e286683452.486388
+r1
+xGenerateDSYMFile
+x/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app.dSYM
+x/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/MosKillTo
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/MosKillTo.app.dSYM build/Debug-iphonesimulator/MosKillTo.app/MosKillTo286683452#286683452#0(0"0(0#0#116"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/MosKillTo4300903632#467"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/MosKillTo -o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app.dSYM0#
+
+CLd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/MosKillTo normal i386
+s286683452.320227
+e286683452.465463
+r1
+xLd
+x/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/MosKillTo
+xnormal
+xi386
+lSLF07#2@121"Link /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/MosKillTo286683452#286683452#0(0"0(0#0#0"4300903632#1086"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator -F/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator -filelist /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/Objects-normal/i386/MosKillTo.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework CoreGraphics -framework OpenAL -framework AudioToolbox -o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/MosKillTo0#
+
+CProcessInfoPlistFile /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/Info.plist Info.plist
+s286683450.542887
+e286683450.545769
+r1
+xProcessInfoPlistFile
+x/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist286683450#286683450#0(0"0(0#0#75"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/Info.plist4300903632#553"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app/Info.plist0#
+
+CProcessPCH /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-anzyfksmuvpyvufjvnmdppqxjvey/MosKillTo_Prefix.pch.gch MosKillTo_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+s286683450.949707
+e286683451.086929
+r1
+xProcessPCH
+x/var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-anzyfksmuvpyvufjvnmdppqxjvey/MosKillTo_Prefix.pch.gch
+xMosKillTo_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile MosKillTo_Prefix.pch286683450#286683451#0(0"0(0#0#85"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MosKillTo_Prefix.pch4300903632#2037"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-generated-files.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-own-target-headers.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-all-target-headers.hmap -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-project-headers.hmap -F/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/include -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources/i386 -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources -c /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MosKillTo_Prefix.pch -o /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-anzyfksmuvpyvufjvnmdppqxjvey/MosKillTo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-apbassandyyfeuftwlkuzvdxrrmo/MosKillTo_Prefix.pch.gch MosKillTo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s286683351.181288
+e286683352.232814
+r1
+xProcessPCH
+x/var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-apbassandyyfeuftwlkuzvdxrrmo/MosKillTo_Prefix.pch.gch
+xMosKillTo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile MosKillTo_Prefix.pch286683351#286683352#0(0"0(0#0#85"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MosKillTo_Prefix.pch4300903632#2047"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-generated-files.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-own-target-headers.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-all-target-headers.hmap -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-project-headers.hmap -F/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/include -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources/i386 -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources -c /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MosKillTo_Prefix.pch -o /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-apbassandyyfeuftwlkuzvdxrrmo/MosKillTo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-awzypfymeudkwehjxbodchmzmycd/MosKillTo_Prefix.pch.gch MosKillTo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s286683450.948882
+e286683451.597144
+r1
+xProcessPCH
+x/var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-awzypfymeudkwehjxbodchmzmycd/MosKillTo_Prefix.pch.gch
+xMosKillTo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile MosKillTo_Prefix.pch286683450#286683451#0(0"0(0#0#85"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MosKillTo_Prefix.pch4300903632#2047"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-generated-files.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-own-target-headers.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-all-target-headers.hmap -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-project-headers.hmap -F/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/include -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources/i386 -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources -c /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MosKillTo_Prefix.pch -o /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-awzypfymeudkwehjxbodchmzmycd/MosKillTo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-bpxutirkvakjjqevjkxmyvsnjsqn/MosKillTo_Prefix.pch.gch MosKillTo_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-fznnizxswfiomnbjoqgnruqgvhjo/MosKillTo_Prefix.pch.gch MosKillTo_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
+s286683351.222831
+e286683351.642963
+r1
+xProcessPCH
+x/var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-fznnizxswfiomnbjoqgnruqgvhjo/MosKillTo_Prefix.pch.gch
+xMosKillTo_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile MosKillTo_Prefix.pch286683351#286683351#0(0"0(0#0#85"/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MosKillTo_Prefix.pch4300903632#2037"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-generated-files.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-own-target-headers.hmap -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-all-target-headers.hmap -iquote /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/MosKillTo-project-headers.hmap -F/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/include -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources/i386 -I/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/MosKillTo.build/Debug-iphonesimulator/MosKillTo.build/DerivedSources -c /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/MosKillTo_Prefix.pch -o /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-fznnizxswfiomnbjoqgnruqgvhjo/MosKillTo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/rG/rGV-9NusHb0SjRMWwbVgjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MosKillTo_Prefix-gchturhzrpdsfnfjbeubzgvqdmyc/MosKillTo_Prefix.pch.gch MosKillTo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app
+s286684841.597006
+e286684841.623750
+r1
+xTouch
+x/Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app
+lSLF07#2@112"Touch /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app286684841#286684841#0(0"0(0#0#0"4300903632#332"    cd /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/saranpol/Desktop/iPhoneProject/moskillto_iphone/MosKillTo/build/Debug-iphonesimulator/MosKillTo.app0#
+
